@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itanil
+- 👋 Hi, I’m anil
 - 👀 I’m interested in ASP.Net Core AND Web API
 - 🌱 I’m currently learning .Net Core
 - 💞️ I’m looking to collaborate on ...
